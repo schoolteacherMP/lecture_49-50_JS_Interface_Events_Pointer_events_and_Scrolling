@@ -11,7 +11,7 @@ PS: воспользуйтесь `mouseove`r и `mouseout` или `pointermove`,
   `background-color: yellow;`  
  `margin: 50px auto;`  
 `}`  
- 
+
 ## Задача 2.   
 ### Изменяем дочерний div   
 Есть родительский и дочерний div. При нажатии на дочерний div мышкой и удерживать нажатие он должен изменить размер (width: 200px; height: 200px;) и цвет фона(green). 
@@ -55,7 +55,7 @@ CSS код:
   `font-size: 24px;`  
   `color: white;`  
 `}`  
-
+[демо](https://github.com/schoolteacherMP/lecture_50_JS_Interface_Events_Pointer_events/blob/main/L50_4.avi)
 ## Задача 4.   
 ### 
 
