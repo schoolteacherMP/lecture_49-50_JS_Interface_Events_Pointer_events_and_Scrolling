@@ -81,13 +81,13 @@ HTML код:
   `top: 55%;`  
   `left: 70%;`  
   `transform: translate(-50%, -50%);`  
-`}
+`}`  
 `#btnYes {`  
   `background-color: green;`  
   `position: absolute;`  
   `top: 50%;`  
   `left: 20%;`  
-`}
+`}`  
 `#child,`  
 `#btnYes {`  
   `width: 100px;`  
