@@ -63,7 +63,9 @@ CSS код:
 При наведении курсора мыши на div с красным фоном, он должен изменять свое позицционирование в пределах родительского div.  
 1. Необходимо добавить обработчик события mouseenter на дочерний элемент, который будет вызывать функцию, изменяющую позицию дочернего элемента внутри родительского элемента.  
 2. Эта функция должна выбирать случайную позицию в пределах родительского элемента (новые случайные координаты для дочернего элемента) и задавать ее в качестве новой позиции для дочернего элемента(новые значения CSS-свойств "top" и "left).  
-Пример новых координат 'top':  `const newTop = Math.floor(Math.random() * (parent.clientHeight - childDiv.clientHeight));`  
+Пример новых координат 'top':  
+`const newTop = Math.floor(Math.random() * (parent.clientHeight - childDiv.clientHeight));`  
+`childDiv.style.top = `${newTop}px`;`  
 Ознакомьтесь с: [clientHeight](https://developer.mozilla.org/ru/docs/Web/API/Element/clientHeight)   и [clientWidth](https://developer.mozilla.org/ru/docs/Web/API/Element/clientWidth)  
 4. Добавление обработчика события "click" для элемента #btnYes.  
 
