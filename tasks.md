@@ -57,12 +57,48 @@ CSS код:
 `}`  
 
 
-https://user-images.githubusercontent.com/113675674/224688495-e032e303-745e-4e47-be67-b0fd9a7e0b4b.mp4
-
-
-
 ## Задача 4.   
 ### 
+
+https://user-images.githubusercontent.com/113675674/224688495-e032e303-745e-4e47-be67-b0fd9a7e0b4b.mp4  
+
+HTML код:  
+ `<div id="parent">`  
+    `<h2>Вам нравится ваш преподаватель?</h2>`  
+    `<div id="child">НЕТ</div>`  
+    `<div id="btnYes">ДА</div>`  
+  `</div>`  
+  CSS код:  
+`#parent {`  
+  `width: 400px;`  
+  `height: 400px;`  
+  `background-color: gray;`  
+  `position: relative;`  
+`}`  
+`#child {`  
+  `background-color: red;`  
+  `position: absolute;`  
+  `top: 55%;`  
+  `left: 70%;`  
+  `transform: translate(-50%, -50%);`  
+`}
+`#btnYes {`  
+  `background-color: green;`  
+  `position: absolute;`  
+  `top: 50%;`  
+  `left: 20%;`  
+`}
+`#child,`  
+`#btnYes {`  
+  `width: 100px;`  
+  `height: 40px;`  
+  `display: flex;`  
+  `justify-content: center;`  
+  `align-items: center;`  
+  `cursor: pointer;`  
+`}`  
+
+
 
 ## Задача 5.   
 ### 
