@@ -4,7 +4,7 @@
 PS: воспользуйтесь `mouseove`r и `mouseout` или `pointermove`, `pointerover`      
  HTML код:  
  `<div id="myElement"></div>`  
- CSS код:
+ CSS код:  
  `#myElement {`  
   `width: 200px;`  
   `height: 200px;`  
@@ -16,6 +16,7 @@ PS: воспользуйтесь `mouseove`r и `mouseout` или `pointermove`,
 ### Изменяем дочерний div   
 Есть родительский и дочерний div. При нажатии на дочерний div мышкой и удерживать нажатие он должен изменить размер (width: 200px; height: 200px;) и цвет фона(green). 
 При отпускании клавиши мышки вернуть в исходное состояние.  
+PS: воспользуйтесь `mousedown`, `mouseup` или  pointerdown, pointerup.  
 HTML код:  
 `<div class="parent">`  
   `<div class="child"></div>`  
@@ -37,7 +38,23 @@ CSS код:
   
 
 ## Задача 3.   
-### 
+### Меняем текст  
+При наведении курсора мыши на div, текст внутри него должен измениться на: "Оно живое! (c) Франкенштейн" и цвет фона на красный.  
+Как только указатель мыши покидает приделы div, все должно вернуться в исходное состояние.  
+PS: воспользуйтесь mouseenter, mouseleave или pointerenter, pointerleave. 	
+HTML код:  
+`<div id="box">Наведите курсор на меня</div>`   
+CSS код:  
+`#box {`  
+  `width: 400px;`  
+  `height: 200px;`  
+  `background-color: gray;`  
+  `margin: 50px auto;`  
+  `text-align: center;`  
+  `line-height: 200px;`  
+  `font-size: 24px;`  
+  `color: white;`  
+`}`  
 
 ## Задача 4.   
 ### 
