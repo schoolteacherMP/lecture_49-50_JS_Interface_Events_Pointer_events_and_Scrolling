@@ -19,6 +19,6 @@
 
 
 
-## Задача 10.   
+## Задача 5.   
 ### Наводим указатель 2 
 ![image](https://user-images.githubusercontent.com/113675674/224657242-71805199-edc1-45bb-ab01-076c799586a8.png)  
