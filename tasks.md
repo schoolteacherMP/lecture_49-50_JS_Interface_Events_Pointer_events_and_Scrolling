@@ -55,7 +55,12 @@ CSS код:
   `font-size: 24px;`  
   `color: white;`  
 `}`  
-[демо](https://github.com/schoolteacherMP/lecture_50_JS_Interface_Events_Pointer_events/blob/main/L50_4.avi)
+
+
+https://user-images.githubusercontent.com/113675674/224688495-e032e303-745e-4e47-be67-b0fd9a7e0b4b.mp4
+
+
+
 ## Задача 4.   
 ### 
 
