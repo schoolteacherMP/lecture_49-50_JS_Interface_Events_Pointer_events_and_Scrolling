@@ -2,7 +2,7 @@
 ### Наводим указатель  
 Напишите функцию `changeBackgroundColor`, которая изменяет цвет фона элемента при наведении курсора на него.   
 PS: воспользуйтесь `mouseove`r и `mouseout` или `pointermove`, `pointerover`      
- HTML код:
+ HTML код:  
  `<div id="myElement"></div>`  
  CSS код:
  `#myElement {`  
@@ -16,9 +16,9 @@ PS: воспользуйтесь `mouseove`r и `mouseout` или `pointermove`,
 ### Изменяем дочерний div   
 Есть родительский и дочерний div. При нажатии на дочерний div мышкой и удерживать нажатие он должен изменить размер (width: 200px; height: 200px;) и цвет фона(green). 
 При отпускании клавиши мышки вернуть в исходное состояние.  
-HTML код:
+HTML код:  
 `<div class="parent">`  
-		`<div class="child"></div>`  
+  `<div class="child"></div>`  
 `</div>`    
 CSS код:  
   `.parent {`  
