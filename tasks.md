@@ -68,6 +68,7 @@ CSS код:
 `childDiv.style.top = ${newTop}px;`  
 Ознакомьтесь с: [clientHeight](https://developer.mozilla.org/ru/docs/Web/API/Element/clientHeight)   и [clientWidth](https://developer.mozilla.org/ru/docs/Web/API/Element/clientWidth)  
 4. Добавление обработчика события "click" для элемента #btnYes.  
+
 В результате мы получаем дочерний элемент "childDiv", который будет перемещаться по родительскому элементу при наведении курсора мыши на него, и элемент "childDiv2", который будет выводить сообщение "Правильный ответ!" в диалоговом окне при нажатии на него.  
 
 https://user-images.githubusercontent.com/113675674/224688495-e032e303-745e-4e47-be67-b0fd9a7e0b4b.mp4  
