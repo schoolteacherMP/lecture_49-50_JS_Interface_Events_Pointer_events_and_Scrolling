@@ -1,7 +1,7 @@
 ## Задача 1.   
 ### Наводим указатель  
 Напишите функцию `changeBackgroundColor`, которая изменяет цвет фона элемента при наведении курсора на него.   
-PS: воспользуйтесь `mouseove`r и `mouseout` или `pointermove`, `pointerover`      
+PS: воспользуйтесь `mouseover` и `mouseout` или `pointermove`, `pointerover`      
  HTML код:  
  `<div id="myElement"></div>`  
  CSS код:  
