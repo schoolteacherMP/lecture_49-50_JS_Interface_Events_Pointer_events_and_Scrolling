@@ -22,3 +22,11 @@
 ## Задача 5.   
 ### Наводим указатель 2 
 ![image](https://user-images.githubusercontent.com/113675674/224657242-71805199-edc1-45bb-ab01-076c799586a8.png)  
+
+
+
+
+![image](https://github.com/schoolteacherMP/lecture_49-50_JS_Interface_Events_Pointer_events_and_Scrolling/assets/113675674/c2c494af-2489-4a6f-b3a8-6fc561fed9ea)  
+![image](https://github.com/schoolteacherMP/lecture_49-50_JS_Interface_Events_Pointer_events_and_Scrolling/assets/113675674/a046d22f-cfdb-4d82-84dc-c23ef85b5867)  
+
+
